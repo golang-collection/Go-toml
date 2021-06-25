@@ -1,0 +1,8 @@
+[log]
+level = "info"
+
+[log.file]
+filename = "/tmp/log.log"
+max-size = 300
+max-days = 0
+max-backups = 0
